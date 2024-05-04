@@ -15,6 +15,7 @@ const connectDB = require('./config/db');
 connectDB();
 
 app.use('/api', require('./routes/default.routes'));
+app.use('/api/users', require('./routes/user.routes'));
 app.use('/api/location', require('./routes/location.routes'));
 
 app.use(errorHandler);

@@ -7,7 +7,7 @@ const Location = require('../models/location.model');
 // @access  Public
 const getAllLocations = asyncHandler(async (req, res) => {
   try {
-		const locations = await Location.find();
+		const locations = await Location.find().limit(100);
 		res.json({ locations: locations });
 	} catch (error) {
 		logger.log('error', 'Location Controller getAllLocations error: ', new Error(error));
