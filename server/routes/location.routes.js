@@ -1,9 +1,17 @@
 const express = require('express');
 const router = express.Router();
 const {
-  getAllLocations
+  getAllLocations,
+  getPaginatedLocations,
+  searchLocations
 } = require('../controllers/location.controller');
 
-router.get('/all', getAllLocations)
+const { protect } = require('../middleware/auth.middleware');
+const { cacheMiddleware } = require('../middleware/customCache.middleware');
+// const redisCacheMiddleware = require('../middleware/redisCache.middleware');
+
+router.route('/').get(protect, getPaginatedLocations)
+router.route('/all').get(protect, cacheMiddleware, getAllLocations)
+router.route('/search').get(protect, searchLocations)
 
 module.exports = router

@@ -1,6 +1,18 @@
 const mongoose = require('mongoose');
 
-const Location = new mongoose.Schema({
+const pointCoordinateSchema = new mongoose.Schema({
+  type: {
+    type: String,
+    enum: ['Point'],
+    required: true
+  },
+  coordinates: {
+    type: [Number],
+    required: true
+  }
+});
+
+const LocationSchema = new mongoose.Schema({
   street: {
     type: String,
     required : true,
@@ -33,6 +45,21 @@ const Location = new mongoose.Schema({
     type: Number,
     required : true,
   },
+  location: {
+    type: pointCoordinateSchema,
+    required : true,
+  }
 });
 
-module.exports = mongoose.model('Geolocation', Location, 'geolocation');
+// LocationSchema.virtual('location')
+// .get(function () {
+//   return {
+//       type: 'Point',
+//       coordinates: [this.longitude, this.latitude]
+//   };
+// })
+// .set('toJSON', { getters: true });
+
+LocationSchema.index({ "location": "2dsphere" });
+
+module.exports = mongoose.model('Geolocation', LocationSchema, 'geolocation');
