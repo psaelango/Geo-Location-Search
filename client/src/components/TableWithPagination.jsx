@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import { Container, Table, Pagination, Button } from 'react-bootstrap';
-import { useSelector } from 'react-redux';
+import React, { useState, useEffect } from "react";
+import { Container, Table, Pagination } from "react-bootstrap";
+import { useSelector } from "react-redux";
 import { getLocationsByPage } from "../store/location/locationService";
 
 const TableWithPagination = ({ fields, url, onRowSelect }) => {
@@ -20,29 +20,30 @@ const TableWithPagination = ({ fields, url, onRowSelect }) => {
       setData(locations);
       setTotalPages(totalPages);
     } catch (error) {
-      console.error('Error fetching data:', error);
+      console.error("Error fetching data:", error);
     }
   };
 
   useEffect(() => {
     fetchData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentPage]);
 
   useEffect(() => {
     calculatePageGroup();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentPage, totalPages]);
 
   const onRowClick = (row) => {
-    setSelected(row)
-    onRowSelect(row)
-  }
+    setSelected(row);
+    onRowSelect(row);
+  };
 
   const handlePageChange = (page) => {
     setCurrentPage(page);
   };
 
   const calculatePageGroup = () => {
-    const totalPageGroups = Math.ceil(totalPages / maxPageLinks);
     const currentGroup = Math.ceil(currentPage / maxPageLinks);
 
     const startPage = (currentGroup - 1) * maxPageLinks + 1;
@@ -58,16 +59,13 @@ const TableWithPagination = ({ fields, url, onRowSelect }) => {
   const handleNextGroup = () => {
     const nextGroupFirstPage = Math.min(
       currentPage + maxPageLinks,
-      totalPages - maxPageLinks + 1
+      totalPages - maxPageLinks + 1,
     );
     setCurrentPage(nextGroupFirstPage);
   };
 
   const handlePreviousGroup = () => {
-    const previousGroupFirstPage = Math.max(
-      currentPage - maxPageLinks,
-      1
-    );
+    const previousGroupFirstPage = Math.max(currentPage - maxPageLinks, 1);
     setCurrentPage(previousGroupFirstPage);
   };
 
@@ -75,31 +73,29 @@ const TableWithPagination = ({ fields, url, onRowSelect }) => {
     <Container>
       <Table striped bordered hover>
         <thead>
-					<tr>
-						<th>#</th>
-						{
-							fields.map((field, index) => (
-								<th key={index}>{field.heading}</th>
-							))
-						}
-					</tr>
+          <tr>
+            <th>#</th>
+            {fields.map((field, index) => (
+              <th key={index}>{field.heading}</th>
+            ))}
+          </tr>
         </thead>
         <tbody>
-          {
-            data.map((value, index) => {
-              const active = JSON.stringify(value) === JSON.stringify(selected)
-              return (
-                <tr key={index} className={active ? 'active-row' : ''} onClick={() => onRowClick(value)}>
-                  <td>{(currentPage * 10 - 10) + index + 1}</td>
-                  {
-                    fields.map(field => (
-                      <th className=''>{value[field.key]}</th>
-                    ))
-                  }
-                </tr>
-              )
-            })
-          }
+          {data.map((value, index) => {
+            const active = JSON.stringify(value) === JSON.stringify(selected);
+            return (
+              <tr
+                key={index}
+                className={active ? "active-row" : ""}
+                onClick={() => onRowClick(value)}
+              >
+                <td>{currentPage * 10 - 10 + index + 1}</td>
+                {fields.map((field) => (
+                  <th className="">{value[field.key]}</th>
+                ))}
+              </tr>
+            );
+          })}
         </tbody>
       </Table>
       <Pagination>
@@ -123,7 +119,9 @@ const TableWithPagination = ({ fields, url, onRowSelect }) => {
           <Pagination.Ellipsis onClick={handleNextGroup} />
         )}
         <Pagination.Next
-          onClick={() => handlePageChange(Math.min(currentPage + 1, totalPages))}
+          onClick={() =>
+            handlePageChange(Math.min(currentPage + 1, totalPages))
+          }
         />
         <Pagination.Last onClick={() => handlePageChange(totalPages)} />
       </Pagination>
