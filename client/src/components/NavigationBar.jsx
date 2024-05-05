@@ -26,6 +26,12 @@ function NavigationBar() {
             <LinkContainer to="/home">
               <Nav.Link>Home</Nav.Link>
             </LinkContainer>
+            <LinkContainer to="/location-search">
+              <Nav.Link>Search Location</Nav.Link>
+            </LinkContainer>
+            <LinkContainer to="/nearby-locations">
+              <Nav.Link>Near By Locations</Nav.Link>
+            </LinkContainer>
             <div style={{marginLeft: 'auto'}}>
               <LinkContainer to="/">
                 <Nav.Link onClick={onLogout}>

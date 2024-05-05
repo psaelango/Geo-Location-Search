@@ -8,6 +8,8 @@ import {
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Home from './routes/Home';
+import LocationSearch from './routes/LocationSearch';
+import NearByLocations from './routes/NearByLocations';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -35,6 +37,8 @@ function Dashboard() {
   return (
     <Routes>
       <Route path="/home" element={<Home />} />
+      <Route path="/location-search" element={<LocationSearch />} />
+      <Route path="/nearby-locations" element={<NearByLocations />} />
       <Route path='/login' element={<Login />} /> 
       <Route path='/register' element={<Register />} />
     </Routes>
