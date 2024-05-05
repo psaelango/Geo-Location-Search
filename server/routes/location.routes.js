@@ -1,17 +1,17 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
 const {
   getAllLocations,
   getPaginatedLocations,
-  searchLocations
-} = require('../controllers/location.controller');
+  searchLocations,
+} = require("../controllers/location.controller");
 
-const { protect } = require('../middleware/auth.middleware');
-const { cacheMiddleware } = require('../middleware/customCache.middleware');
+const { protect } = require("../middleware/auth.middleware");
+const { cacheMiddleware } = require("../middleware/customCache.middleware");
 // const redisCacheMiddleware = require('../middleware/redisCache.middleware');
 
-router.route('/').get(protect, getPaginatedLocations)
-router.route('/all').get(protect, cacheMiddleware, getAllLocations)
-router.route('/search').get(protect, searchLocations)
+router.route("/").get(protect, getPaginatedLocations);
+router.route("/all").get(protect, cacheMiddleware, getAllLocations);
+router.route("/search").get(protect, searchLocations);
 
-module.exports = router
+module.exports = router;

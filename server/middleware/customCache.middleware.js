@@ -19,10 +19,10 @@ const cacheMiddleware = (req, res, next) => {
 
   const cachedData = cache.get(key);
   if (cachedData) {
-    console.log('Data found in cache');
+    console.log("Data found in cache");
     res.json({ locations: cachedData });
   } else {
-    console.log('Data not found in cache, fetching from API');
+    console.log("Data not found in cache, fetching from API");
     next();
   }
 };
