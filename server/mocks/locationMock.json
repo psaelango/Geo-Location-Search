@@ -1,0 +1,1402 @@
+[
+  {
+    "street": "115 Zboncak Center",
+    "city": "Fort Lauderdale",
+    "zip_code": "90119-2214",
+    "county": "Northumberland",
+    "country": "Christmas Island",
+    "latitude": -45.619,
+    "longitude": -7.017,
+    "time_zone": "Africa/Harare",
+    "location": {
+      "type": "Point",
+      "coordinates": [-7.017, -45.619]
+    }
+  },
+  {
+    "street": "508 Quitzon Green",
+    "city": "White Plains",
+    "zip_code": "95702-4766",
+    "county": "Hertfordshire",
+    "country": "Germany",
+    "latitude": -34.116,
+    "longitude": 39.491,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [39.491, -34.116]
+    }
+  },
+  {
+    "street": "1158 Hauck Stream",
+    "city": "West Everardo",
+    "zip_code": "77178-5165",
+    "county": "Leicestershire",
+    "country": "Syrian Arab Republic",
+    "latitude": -5.345,
+    "longitude": -3.657,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-3.657, -5.345]
+    }
+  },
+  {
+    "street": "1188 Howell Plaza",
+    "city": "South Stacey",
+    "zip_code": "93215-8449",
+    "county": "East Sussex",
+    "country": "Brazil",
+    "latitude": 57.126,
+    "longitude": -19.333,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-19.333, 57.126]
+    }
+  },
+  {
+    "street": "1466 Schimmel Fields",
+    "city": "Lake Ludie",
+    "zip_code": "75853-9441",
+    "county": "Greater Manchester",
+    "country": "Belarus",
+    "latitude": -22.022,
+    "longitude": -172.281,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-172.281, -22.022]
+    }
+  },
+  {
+    "street": "927 Graham Walks",
+    "city": "Cuyahoga Falls",
+    "zip_code": "58705",
+    "county": "Leicestershire",
+    "country": "Guinea-Bissau",
+    "latitude": 84.433,
+    "longitude": -131.774,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-131.774, 84.433]
+    }
+  },
+  {
+    "street": "1269 Stiedemann Field",
+    "city": "Janefurt",
+    "zip_code": "81925-4544",
+    "county": "Shropshire",
+    "country": "Russian Federation",
+    "latitude": -19.397,
+    "longitude": 26.934,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [26.934, -19.397]
+    }
+  },
+  {
+    "street": "975 Dante Summit",
+    "city": "Frisco",
+    "zip_code": "22469-9120",
+    "county": "Surrey",
+    "country": "Sri Lanka",
+    "latitude": 54.147,
+    "longitude": -29.434,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-29.434, 54.147]
+    }
+  },
+  {
+    "street": "991 Lehner Drive",
+    "city": "Marionton",
+    "zip_code": "80432",
+    "county": "Worcestershire",
+    "country": "Angola",
+    "latitude": -14.279,
+    "longitude": -63.447,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-63.447, -14.279]
+    }
+  },
+  {
+    "street": "603 Dante Summit",
+    "city": "Henderson",
+    "zip_code": "30927",
+    "county": "Staffordshire",
+    "country": "Albania",
+    "latitude": -54.541,
+    "longitude": 170.303,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [170.303, -54.541]
+    }
+  },
+  {
+    "street": "406 Eugenia Heights",
+    "city": "East Filibertofurt",
+    "zip_code": "67839-4278",
+    "county": "Kent",
+    "country": "Saint Kitts and Nevis",
+    "latitude": -4.658,
+    "longitude": 4.737,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.737, -4.658]
+    }
+  },
+  {
+    "street": "1475 Lockman Greens",
+    "city": "East Filibertofurt",
+    "zip_code": "74319-6447",
+    "county": "East Riding of Yorkshire",
+    "country": "Gabon",
+    "latitude": -62.128,
+    "longitude": -179.001,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-179.001, -62.128]
+    }
+  },
+  {
+    "street": "26 Quigley Parkways",
+    "city": "New Montemouth",
+    "zip_code": "89560",
+    "county": "Surrey",
+    "country": "Czech Republic",
+    "latitude": 69.039,
+    "longitude": 16.852,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [16.852, 69.039]
+    }
+  },
+  {
+    "street": "264 Conner Vista",
+    "city": "New Ansley",
+    "zip_code": "67864-7223",
+    "county": "Staffordshire",
+    "country": "Greece",
+    "latitude": 41.355,
+    "longitude": -36.336,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-36.336, 41.355]
+    }
+  },
+  {
+    "street": "754 Hauck Stream",
+    "city": "Port Salvador",
+    "zip_code": "82267",
+    "county": "Buckinghamshire",
+    "country": "Montenegro",
+    "latitude": -51.653,
+    "longitude": -19.243,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-19.243, -51.653]
+    }
+  },
+  {
+    "street": "423 Dariana Junction",
+    "city": "New Garlandfort",
+    "zip_code": "10774",
+    "county": "Devon",
+    "country": "Argentina",
+    "latitude": -64.604,
+    "longitude": -175.418,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-175.418, -64.604]
+    }
+  },
+  {
+    "street": "790 Stroman Turnpike",
+    "city": "White Plains",
+    "zip_code": "36946-2667",
+    "county": "Cheshire",
+    "country": "Mongolia",
+    "latitude": 4.242,
+    "longitude": -92.514,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-92.514, 4.242]
+    }
+  },
+  {
+    "street": "677 Conner Vista",
+    "city": "Rogers",
+    "zip_code": "64825-4659",
+    "county": "Essex",
+    "country": "Mozambique",
+    "latitude": 61.484,
+    "longitude": -64.238,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-64.238, 61.484]
+    }
+  },
+  {
+    "street": "1253 Jade Shore",
+    "city": "Metairie",
+    "zip_code": "13334-9190",
+    "county": "Shropshire",
+    "country": "Bolivia",
+    "latitude": 60.156,
+    "longitude": -145.438,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-145.438, 60.156]
+    }
+  },
+  {
+    "street": "1174 Konopelski Inlet",
+    "city": "Fort Lauderdale",
+    "zip_code": "36676-8852",
+    "county": "Cornwall",
+    "country": "Latvia",
+    "latitude": 5.632,
+    "longitude": -99.785,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-99.785, 5.632]
+    }
+  },
+  {
+    "street": "1410 King Springs",
+    "city": "Durwardton",
+    "zip_code": "47318",
+    "county": "Worcestershire",
+    "country": "Chile",
+    "latitude": -43.996,
+    "longitude": -117.212,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-117.212, -43.996]
+    }
+  },
+  {
+    "street": "676 Glover Lights",
+    "city": "Jaquelinview",
+    "zip_code": "18987-9378",
+    "county": "Hampshire",
+    "country": "Wallis and Futuna",
+    "latitude": 73.574,
+    "longitude": -172.05,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-172.05, 73.574]
+    }
+  },
+  {
+    "street": "862 Buckridge Drives",
+    "city": "Willbury",
+    "zip_code": "80098",
+    "county": "Greater Manchester",
+    "country": "Guinea",
+    "latitude": 11.84,
+    "longitude": -168.397,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-168.397, 11.84]
+    }
+  },
+  {
+    "street": "857 Missouri Extension",
+    "city": "West Everardo",
+    "zip_code": "30645-1814",
+    "county": "Shropshire",
+    "country": "Azerbaijan",
+    "latitude": 33.399,
+    "longitude": 46.082,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [46.082, 33.399]
+    }
+  },
+  {
+    "street": "844 Kreiger Mission",
+    "city": "West Brendonville",
+    "zip_code": "79907-5012",
+    "county": "Cumbria",
+    "country": "Bolivia",
+    "latitude": -18.164,
+    "longitude": 37.742,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [37.742, -18.164]
+    }
+  },
+  {
+    "street": "1064 Dariana Junction",
+    "city": "Henderson",
+    "zip_code": "62646-3631",
+    "county": "Kent",
+    "country": "Liechtenstein",
+    "latitude": -85.853,
+    "longitude": 48.282,
+    "time_zone": "America/Santiago",
+    "location": {
+      "type": "Point",
+      "coordinates": [48.282, -85.853]
+    }
+  },
+  {
+    "street": "1409 Chyna Plaza",
+    "city": "Port Hardymouth",
+    "zip_code": "39953-9891",
+    "county": "Worcestershire",
+    "country": "Sierra Leone",
+    "latitude": 50.118,
+    "longitude": 4.864,
+    "time_zone": "America/Mazatlan",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.864, 50.118]
+    }
+  },
+  {
+    "street": "219 Tremblay Springs",
+    "city": "East Vicentaborough",
+    "zip_code": "99373",
+    "county": "Berkshire",
+    "country": "Ethiopia",
+    "latitude": 50.118,
+    "longitude": -87.851,
+    "time_zone": "America/Monterrey",
+    "location": {
+      "type": "Point",
+      "coordinates": [-87.851, 50.118]
+    }
+  },
+  {
+    "street": "1082 Dariana Junction",
+    "city": "Johnnieburgh",
+    "zip_code": "16964-4068",
+    "county": "Hampshire",
+    "country": "Switzerland",
+    "latitude": 50.129,
+    "longitude": 161.756,
+    "time_zone": "Asia/Riyadh",
+    "location": {
+      "type": "Point",
+      "coordinates": [161.756, 50.129]
+    }
+  },
+  {
+    "street": "224 Rosendo Spring",
+    "city": "New Kyle",
+    "zip_code": "27240-1066",
+    "county": "West Yorkshire",
+    "country": "Costa Rica",
+    "latitude": 50.131,
+    "longitude": 99.149,
+    "time_zone": "Asia/Krasnoyarsk",
+    "location": {
+      "type": "Point",
+      "coordinates": [99.149, 50.131]
+    }
+  },
+  {
+    "street": "330 Rosendo Spring",
+    "city": "Denesikburgh",
+    "zip_code": "18350-8844",
+    "county": "East Riding of Yorkshire",
+    "country": "Mozambique",
+    "latitude": 50.134,
+    "longitude": -137.608,
+    "time_zone": "Asia/Baku",
+    "location": {
+      "type": "Point",
+      "coordinates": [-137.608, 50.134]
+    }
+  },
+  {
+    "street": "1102 Sammy Creek",
+    "city": "North Antonetta",
+    "zip_code": "21513-1002",
+    "county": "Tyne and Wear",
+    "country": "Faroe Islands",
+    "latitude": 50.135,
+    "longitude": 31.881,
+    "time_zone": "America/Denver",
+    "location": {
+      "type": "Point",
+      "coordinates": [31.881, 50.135]
+    }
+  },
+  {
+    "street": "697 Hauck Stream",
+    "city": "State College",
+    "zip_code": "74532-7450",
+    "county": "Cornwall",
+    "country": "Montserrat",
+    "latitude": 50.189,
+    "longitude": 137.57,
+    "time_zone": "Australia/Brisbane",
+    "location": {
+      "type": "Point",
+      "coordinates": [137.57, 50.189]
+    }
+  },
+  {
+    "street": "220 Howell Plaza",
+    "city": "New Philip",
+    "zip_code": "71242-9249",
+    "county": "Staffordshire",
+    "country": "Slovakia (Slovak Republic)",
+    "latitude": 50.247,
+    "longitude": 0.401,
+    "time_zone": "Europe/Vienna",
+    "location": {
+      "type": "Point",
+      "coordinates": [0.401, 50.247]
+    }
+  },
+  {
+    "street": "633 Georgiana Throughway",
+    "city": "West Janetborough",
+    "zip_code": "69756-3430",
+    "county": "Norfolk",
+    "country": "French Southern Territories",
+    "latitude": 50.268,
+    "longitude": 56.12,
+    "time_zone": "America/Mazatlan",
+    "location": {
+      "type": "Point",
+      "coordinates": [56.12, 50.268]
+    }
+  },
+  {
+    "street": "575 Quitzon Green",
+    "city": "Tryciastad",
+    "zip_code": "10870-5532",
+    "county": "Berkshire",
+    "country": "Ethiopia",
+    "latitude": 50.268,
+    "longitude": -93.076,
+    "time_zone": "Asia/Baghdad",
+    "location": {
+      "type": "Point",
+      "coordinates": [-93.076, 50.268]
+    }
+  },
+  {
+    "street": "835 Howell Vista",
+    "city": "Williemouth",
+    "zip_code": "68473",
+    "county": "Greater London",
+    "country": "Spain",
+    "latitude": 50.311,
+    "longitude": 15.863,
+    "time_zone": "Asia/Tokyo",
+    "location": {
+      "type": "Point",
+      "coordinates": [15.863, 50.311]
+    }
+  },
+  {
+    "street": "177 Howell Vista",
+    "city": "Padbergmouth",
+    "zip_code": "39135",
+    "county": "Somerset",
+    "country": "Azerbaijan",
+    "latitude": 50.329,
+    "longitude": -64.943,
+    "time_zone": "Africa/Harare",
+    "location": {
+      "type": "Point",
+      "coordinates": [-64.943, 50.329]
+    }
+  },
+  {
+    "street": "642 Conner Vista",
+    "city": "Fort Lauderdale",
+    "zip_code": "25235-6869",
+    "county": "Oxfordshire",
+    "country": "Mayotte",
+    "latitude": 50.343,
+    "longitude": -13.96,
+    "time_zone": "Asia/Shanghai",
+    "location": {
+      "type": "Point",
+      "coordinates": [-13.96, 50.343]
+    }
+  },
+  {
+    "street": "426 Stokes Wells",
+    "city": "North Winnifred",
+    "zip_code": "60000",
+    "county": "Leicestershire",
+    "country": "Bahrain",
+    "latitude": 50.365,
+    "longitude": 69.336,
+    "time_zone": "Atlantic/South_Georgia",
+    "location": {
+      "type": "Point",
+      "coordinates": [69.336, 50.365]
+    }
+  },
+  {
+    "street": "880 Daugherty Center",
+    "city": "East Providence",
+    "zip_code": "52984",
+    "county": "Worcestershire",
+    "country": "Ecuador",
+    "latitude": 50.38,
+    "longitude": 5.284,
+    "time_zone": "Asia/Dhaka",
+    "location": {
+      "type": "Point",
+      "coordinates": [5.284, 50.38]
+    }
+  },
+  {
+    "street": "307 Dorian Gateway",
+    "city": "South Laila",
+    "zip_code": "72686",
+    "county": "Nottinghamshire",
+    "country": "Tajikistan",
+    "latitude": 50.434,
+    "longitude": -151.968,
+    "time_zone": "Africa/Monrovia",
+    "location": {
+      "type": "Point",
+      "coordinates": [-151.968, 50.434]
+    }
+  },
+  {
+    "street": "1419 Parker Ways",
+    "city": "Aliso Viejo",
+    "zip_code": "42461",
+    "county": "Bristol",
+    "country": "Estonia",
+    "latitude": 50.586,
+    "longitude": -62.172,
+    "time_zone": "Asia/Riyadh",
+    "location": {
+      "type": "Point",
+      "coordinates": [-62.172, 50.586]
+    }
+  },
+  {
+    "street": "270 Zboncak Center",
+    "city": "New Solonmouth",
+    "zip_code": "76313",
+    "county": "West Midlands",
+    "country": "Hungary",
+    "latitude": 50.631,
+    "longitude": 156.124,
+    "time_zone": "Asia/Kamchatka",
+    "location": {
+      "type": "Point",
+      "coordinates": [156.124, 50.631]
+    }
+  },
+  {
+    "street": "126 Forest Path",
+    "city": "Maxwellport",
+    "zip_code": "64034-1605",
+    "county": "Staffordshire",
+    "country": "Saint Barthelemy",
+    "latitude": 50.636,
+    "longitude": 107.063,
+    "time_zone": "Africa/Nairobi",
+    "location": {
+      "type": "Point",
+      "coordinates": [107.063, 50.636]
+    }
+  },
+  {
+    "street": "1038 Cole Center",
+    "city": "East Khalilton",
+    "zip_code": "91643",
+    "county": "Suffolk",
+    "country": "Christmas Island",
+    "latitude": 50.674,
+    "longitude": 126.743,
+    "time_zone": "Europe/Warsaw",
+    "location": {
+      "type": "Point",
+      "coordinates": [126.743, 50.674]
+    }
+  },
+  {
+    "street": "1070 Lehner Drive",
+    "city": "Venamouth",
+    "zip_code": "54413-7034",
+    "county": "Suffolk",
+    "country": "Indonesia",
+    "latitude": 50.695,
+    "longitude": -176.656,
+    "time_zone": "Australia/Brisbane",
+    "location": {
+      "type": "Point",
+      "coordinates": [-176.656, 50.695]
+    }
+  },
+  {
+    "street": "41 Heathcote Cliff",
+    "city": "Jaskolskifort",
+    "zip_code": "36080-8859",
+    "county": "Northamptonshire",
+    "country": "Czech Republic",
+    "latitude": 50.712,
+    "longitude": -19.664,
+    "time_zone": "Africa/Monrovia",
+    "location": {
+      "type": "Point",
+      "coordinates": [-19.664, 50.712]
+    }
+  },
+  {
+    "street": "408 Reynold Crossing",
+    "city": "Henderson",
+    "zip_code": "64928-7841",
+    "county": "North Yorkshire",
+    "country": "United States of America",
+    "latitude": 50.734,
+    "longitude": 89.739,
+    "time_zone": "Europe/Bucharest",
+    "location": {
+      "type": "Point",
+      "coordinates": [89.739, 50.734]
+    }
+  },
+  {
+    "street": "591 Zboncak Center",
+    "city": "New Davonteside",
+    "zip_code": "15622-4269",
+    "county": "Greater London",
+    "country": "Bahrain",
+    "latitude": 50.757,
+    "longitude": -58.381,
+    "time_zone": "America/Chicago",
+    "location": {
+      "type": "Point",
+      "coordinates": [-58.381, 50.757]
+    }
+  },
+  {
+    "street": "1137 Doyle Expressway",
+    "city": "New Wallaceberg",
+    "zip_code": "35865",
+    "county": "Warwickshire",
+    "country": "French Southern Territories",
+    "latitude": 50.76,
+    "longitude": -126.348,
+    "time_zone": "America/Denver",
+    "location": {
+      "type": "Point",
+      "coordinates": [-126.348, 50.76]
+    }
+  },
+  {
+    "street": "228 Beer Plaza",
+    "city": "North Kaleighshire",
+    "zip_code": "54840",
+    "county": "Merseyside",
+    "country": "Colombia",
+    "latitude": 61.865,
+    "longitude": -44.145,
+    "time_zone": "Europe/Lisbon",
+    "location": {
+      "type": "Point",
+      "coordinates": [-44.145, 61.865]
+    }
+  },
+  {
+    "street": "1200 Stiedemann Field",
+    "city": "North Kaleighshire",
+    "zip_code": "51942",
+    "county": "Warwickshire",
+    "country": "Colombia",
+    "latitude": -36.549,
+    "longitude": -58.91,
+    "time_zone": "Europe/Madrid",
+    "location": {
+      "type": "Point",
+      "coordinates": [-58.91, -36.549]
+    }
+  },
+  {
+    "street": "1173 Gutkowski Ferry",
+    "city": "Durwardton",
+    "zip_code": "41977-4697",
+    "county": "Somerset",
+    "country": "Colombia",
+    "latitude": 70.149,
+    "longitude": -137.824,
+    "time_zone": "Europe/Moscow",
+    "location": {
+      "type": "Point",
+      "coordinates": [-137.824, 70.149]
+    }
+  },
+  {
+    "street": "755 Viviane Junctions",
+    "city": "Jaskolskifort",
+    "zip_code": "73636",
+    "county": "Hampshire",
+    "country": "Colombia",
+    "latitude": 22.208,
+    "longitude": -14.653,
+    "time_zone": "Europe/Rome",
+    "location": {
+      "type": "Point",
+      "coordinates": [-14.653, 22.208]
+    }
+  },
+  {
+    "street": "1109 Calista Via",
+    "city": "Venamouth",
+    "zip_code": "36268-1965",
+    "county": "Leicestershire",
+    "country": "Colombia",
+    "latitude": -85.392,
+    "longitude": 153.904,
+    "time_zone": "Europe/Vienna",
+    "location": {
+      "type": "Point",
+      "coordinates": [153.904, -85.392]
+    }
+  },
+  {
+    "street": "320 Natalia Points",
+    "city": "Aliso Viejo",
+    "zip_code": "62396",
+    "county": "Herefordshire",
+    "country": "Colombia",
+    "latitude": 57.576,
+    "longitude": -71.652,
+    "time_zone": "Europe/Vienna",
+    "location": {
+      "type": "Point",
+      "coordinates": [-71.652, 57.576]
+    }
+  },
+  {
+    "street": "212 Stokes Wells",
+    "city": "Farmington",
+    "zip_code": "20368-7181",
+    "county": "Bristol",
+    "country": "Colombia",
+    "latitude": -37.218,
+    "longitude": -73.676,
+    "time_zone": "Europe/Vilnius",
+    "location": {
+      "type": "Point",
+      "coordinates": [-73.676, -37.218]
+    }
+  },
+  {
+    "street": "560 Cronin Shoal",
+    "city": "North Celia",
+    "zip_code": "61223",
+    "county": "Merseyside",
+    "country": "Colombia",
+    "latitude": 49.09,
+    "longitude": 140.41,
+    "time_zone": "Europe/Vilnius",
+    "location": {
+      "type": "Point",
+      "coordinates": [140.41, 49.09]
+    }
+  },
+  {
+    "street": "718 Zboncak Center",
+    "city": "Buffalo",
+    "zip_code": "36164-3334",
+    "county": "Kent",
+    "country": "Colombia",
+    "latitude": 72.762,
+    "longitude": -55.665,
+    "time_zone": "Europe/Zagreb",
+    "location": {
+      "type": "Point",
+      "coordinates": [-55.665, 72.762]
+    }
+  },
+  {
+    "street": "791 Georgiana Throughway",
+    "city": "North Braulio",
+    "zip_code": "98023",
+    "county": "Herefordshire",
+    "country": "Colombia",
+    "latitude": 37.291,
+    "longitude": -74.893,
+    "time_zone": "Europe/Zagreb",
+    "location": {
+      "type": "Point",
+      "coordinates": [-74.893, 37.291]
+    }
+  },
+  {
+    "street": "206 Rosendo Spring",
+    "city": "Wehnerfort",
+    "zip_code": "57451",
+    "county": "Worcestershire",
+    "country": "Colombia",
+    "latitude": -78.52,
+    "longitude": -166.644,
+    "time_zone": "Pacific/Apia",
+    "location": {
+      "type": "Point",
+      "coordinates": [-166.644, -78.52]
+    }
+  },
+  {
+    "street": "1367 Durgan Parkways",
+    "city": "Port Ricky",
+    "zip_code": "19166",
+    "county": "Cumbria",
+    "country": "Colombia",
+    "latitude": -73.046,
+    "longitude": -154.134,
+    "time_zone": "Pacific/Majuro",
+    "location": {
+      "type": "Point",
+      "coordinates": [-154.134, -73.046]
+    }
+  },
+  {
+    "street": "1289 Frances Groves",
+    "city": "Durwardton",
+    "zip_code": "72781-4384",
+    "county": "Nottinghamshire",
+    "country": "Colombia",
+    "latitude": -14.968,
+    "longitude": 120.943,
+    "time_zone": "Pacific/Majuro",
+    "location": {
+      "type": "Point",
+      "coordinates": [120.943, -14.968]
+    }
+  },
+  {
+    "street": "591 Cole Center",
+    "city": "North Nona",
+    "zip_code": "85345",
+    "county": "Tyne and Wear",
+    "country": "Colombia",
+    "latitude": 2.131,
+    "longitude": -46.571,
+    "time_zone": "Pacific/Port_Moresby",
+    "location": {
+      "type": "Point",
+      "coordinates": [-46.571, 2.131]
+    }
+  },
+  {
+    "street": "739 Stroman Turnpike",
+    "city": "East Providence",
+    "zip_code": "76398",
+    "county": "Hertfordshire",
+    "country": "Colombia",
+    "latitude": 66.043,
+    "longitude": 134.206,
+    "time_zone": "Pacific/Port_Moresby",
+    "location": {
+      "type": "Point",
+      "coordinates": [134.206, 66.043]
+    }
+  },
+  {
+    "street": "1410 Eugenia Heights",
+    "city": "Glen Burnie",
+    "zip_code": "78412",
+    "county": "Lancashire",
+    "country": "Comoros",
+    "latitude": -32.194,
+    "longitude": 42.603,
+    "time_zone": "Africa/Casablanca",
+    "location": {
+      "type": "Point",
+      "coordinates": [42.603, -32.194]
+    }
+  },
+  {
+    "street": "729 Gutkowski Ferry",
+    "city": "Fort Lauderdale",
+    "zip_code": "68579",
+    "county": "Gloucestershire",
+    "country": "Comoros",
+    "latitude": 81.247,
+    "longitude": 130.144,
+    "time_zone": "Africa/Johannesburg",
+    "location": {
+      "type": "Point",
+      "coordinates": [130.144, 81.247]
+    }
+  },
+  {
+    "street": "1231 Natalia Points",
+    "city": "West Dorris",
+    "zip_code": "24069",
+    "county": "East Riding of Yorkshire",
+    "country": "Comoros",
+    "latitude": -7.188,
+    "longitude": 88.645,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "location": {
+      "type": "Point",
+      "coordinates": [88.645, -7.188]
+    }
+  },
+  {
+    "street": "294 Shakira Crossroad",
+    "city": "North Celia",
+    "zip_code": "24007",
+    "county": "Kent",
+    "country": "Comoros",
+    "latitude": -39.553,
+    "longitude": -156.331,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "location": {
+      "type": "Point",
+      "coordinates": [-156.331, -39.553]
+    }
+  },
+  {
+    "street": "266 Corwin Mission",
+    "city": "North Nona",
+    "zip_code": "91566-6656",
+    "county": "South Yorkshire",
+    "country": "Comoros",
+    "latitude": -10.991,
+    "longitude": -21.029,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "location": {
+      "type": "Point",
+      "coordinates": [-21.029, -10.991]
+    }
+  },
+  {
+    "street": "526 King Drives",
+    "city": "South Stacey",
+    "zip_code": "88512-2239",
+    "county": "Suffolk",
+    "country": "Comoros",
+    "latitude": -11.873,
+    "longitude": -16.55,
+    "time_zone": "America/Indiana/Indianapolis",
+    "location": {
+      "type": "Point",
+      "coordinates": [-16.55, -11.873]
+    }
+  },
+  {
+    "street": "571 Rath Walk",
+    "city": "New Kyle",
+    "zip_code": "17098-6953",
+    "county": "Staffordshire",
+    "country": "Comoros",
+    "latitude": 69.49,
+    "longitude": -138.02,
+    "time_zone": "America/Juneau",
+    "location": {
+      "type": "Point",
+      "coordinates": [-138.02, 69.49]
+    }
+  },
+  {
+    "street": "21 Harmon Lodge",
+    "city": "Port Hardymouth",
+    "zip_code": "41159-9817",
+    "county": "Berkshire",
+    "country": "Comoros",
+    "latitude": 25.107,
+    "longitude": 91.338,
+    "time_zone": "America/Juneau",
+    "location": {
+      "type": "Point",
+      "coordinates": [91.338, 25.107]
+    }
+  },
+  {
+    "street": "23 Emard Hill",
+    "city": "New Davonteside",
+    "zip_code": "52084-2044",
+    "county": "Greater Manchester",
+    "country": "Comoros",
+    "latitude": 3.151,
+    "longitude": -63.671,
+    "time_zone": "America/Mazatlan",
+    "location": {
+      "type": "Point",
+      "coordinates": [-63.671, 3.151]
+    }
+  },
+  {
+    "street": "326 Corwin Mission",
+    "city": "Bernierfurt",
+    "zip_code": "81536-7799",
+    "county": "Kent",
+    "country": "Comoros",
+    "latitude": -55.617,
+    "longitude": -45.161,
+    "time_zone": "America/Mazatlan",
+    "location": {
+      "type": "Point",
+      "coordinates": [-45.161, -55.617]
+    }
+  },
+  {
+    "street": "638 Brisa Hill",
+    "city": "South Dagmarshire",
+    "zip_code": "55604",
+    "county": "Greater London",
+    "country": "Iran",
+    "latitude": -79.968,
+    "longitude": 165.878,
+    "time_zone": "Australia/Melbourne",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.878, -79.968]
+    }
+  },
+  {
+    "street": "1460 Harber Village",
+    "city": "West Everardo",
+    "zip_code": "96882",
+    "county": "North Yorkshire",
+    "country": "Mayotte",
+    "latitude": 16.135,
+    "longitude": 165.858,
+    "time_zone": "Europe/Lisbon",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.858, 16.135]
+    }
+  },
+  {
+    "street": "896 Genesis Plaza",
+    "city": "Lake Anthony",
+    "zip_code": "76396-7109",
+    "county": "City of London",
+    "country": "Guinea-Bissau",
+    "latitude": 23.233,
+    "longitude": 165.856,
+    "time_zone": "Europe/Lisbon",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.856, 23.233]
+    }
+  },
+  {
+    "street": "869 Emard Hill",
+    "city": "Lawrence",
+    "zip_code": "46425",
+    "county": "Lincolnshire",
+    "country": "Moldova",
+    "latitude": -48.853,
+    "longitude": 165.811,
+    "time_zone": "America/Chicago",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.811, -48.853]
+    }
+  },
+  {
+    "street": "37 Stroman Turnpike",
+    "city": "North Celia",
+    "zip_code": "99404",
+    "county": "Durham",
+    "country": "Benin",
+    "latitude": -72.787,
+    "longitude": 165.742,
+    "time_zone": "Europe/Lisbon",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.742, -72.787]
+    }
+  },
+  {
+    "street": "78 Antonietta Highway",
+    "city": "Denesikburgh",
+    "zip_code": "88681-7686",
+    "county": "Devon",
+    "country": "Hungary",
+    "latitude": -80.258,
+    "longitude": 165.739,
+    "time_zone": "Pacific/Honolulu",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.739, -80.258]
+    }
+  },
+  {
+    "street": "565 Leffler Fields",
+    "city": "West Everardo",
+    "zip_code": "44727",
+    "county": "Hertfordshire",
+    "country": "Trinidad and Tobago",
+    "latitude": -20.39,
+    "longitude": 165.672,
+    "time_zone": "Europe/Riga",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.672, -20.39]
+    }
+  },
+  {
+    "street": "1285 Buckridge Drives",
+    "city": "Langborough",
+    "zip_code": "28694",
+    "county": "Cumbria",
+    "country": "Paraguay",
+    "latitude": 27.276,
+    "longitude": 165.619,
+    "time_zone": "America/La_Paz",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.619, 27.276]
+    }
+  },
+  {
+    "street": "545 Elian Road",
+    "city": "Denesikburgh",
+    "zip_code": "33267-5187",
+    "county": "Tyne and Wear",
+    "country": "Montenegro",
+    "latitude": 49.107,
+    "longitude": 165.543,
+    "time_zone": "Asia/Baku",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.543, 49.107]
+    }
+  },
+  {
+    "street": "913 Adell Mews",
+    "city": "Elisabethland",
+    "zip_code": "27995-6970",
+    "county": "Leicestershire",
+    "country": "Mongolia",
+    "latitude": -68.424,
+    "longitude": 165.44,
+    "time_zone": "Asia/Baku",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.44, -68.424]
+    }
+  },
+  {
+    "street": "181 Goyette Circle",
+    "city": "Glen Burnie",
+    "zip_code": "32191-8048",
+    "county": "Hampshire",
+    "country": "Dominican Republic",
+    "latitude": 16.81,
+    "longitude": 165.356,
+    "time_zone": "America/Phoenix",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.356, 16.81]
+    }
+  },
+  {
+    "street": "975 Rosendo Spring",
+    "city": "Langborough",
+    "zip_code": "26806-6438",
+    "county": "Derbyshire",
+    "country": "Gabon",
+    "latitude": 83.897,
+    "longitude": 165.308,
+    "time_zone": "Asia/Seoul",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.308, 83.897]
+    }
+  },
+  {
+    "street": "1036 Eugenia Heights",
+    "city": "Lake Anthony",
+    "zip_code": "95020",
+    "county": "Cheshire",
+    "country": "Croatia",
+    "latitude": -10.337,
+    "longitude": 165.258,
+    "time_zone": "Europe/Vilnius",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.258, -10.337]
+    }
+  },
+  {
+    "street": "1416 Durgan Parkways",
+    "city": "Maxwellport",
+    "zip_code": "72316",
+    "county": "Devon",
+    "country": "Liechtenstein",
+    "latitude": 39.083,
+    "longitude": 165.019,
+    "time_zone": "Africa/Johannesburg",
+    "location": {
+      "type": "Point",
+      "coordinates": [165.019, 39.083]
+    }
+  },
+  {
+    "street": "640 Aracely Row",
+    "city": "West Janetborough",
+    "zip_code": "76121",
+    "county": "Northumberland",
+    "country": "Lao Peoples Democratic Republic",
+    "latitude": -14.267,
+    "longitude": 164.99,
+    "time_zone": "Asia/Taipei",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.99, -14.267]
+    }
+  },
+  {
+    "street": "1369 King Drives",
+    "city": "South Laila",
+    "zip_code": "18768-1289",
+    "county": "Lancashire",
+    "country": "Mayotte",
+    "latitude": -43.013,
+    "longitude": 164.961,
+    "time_zone": "Africa/Nairobi",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.961, -43.013]
+    }
+  },
+  {
+    "street": "565 Wilma Greens",
+    "city": "Henderson",
+    "zip_code": "26366",
+    "county": "Greater London",
+    "country": "Albania",
+    "latitude": -9.674,
+    "longitude": 164.96,
+    "time_zone": "Pacific/Honolulu",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.96, -9.674]
+    }
+  },
+  {
+    "street": "1021 Fay Corners",
+    "city": "Shoreline",
+    "zip_code": "38092-8683",
+    "county": "Dorset",
+    "country": "Virgin Islands, U.S.",
+    "latitude": -68.871,
+    "longitude": 164.954,
+    "time_zone": "America/Chicago",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.954, -68.871]
+    }
+  },
+  {
+    "street": "1199 Heathcote Cliff",
+    "city": "South Dagmarshire",
+    "zip_code": "73756-2397",
+    "county": "Cambridgeshire",
+    "country": "Greece",
+    "latitude": -59.735,
+    "longitude": 164.912,
+    "time_zone": "Europe/Stockholm",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.912, -59.735]
+    }
+  },
+  {
+    "street": "1143 Adell Mews",
+    "city": "Cuyahoga Falls",
+    "zip_code": "42803-7363",
+    "county": "Essex",
+    "country": "Senegal",
+    "latitude": 79.918,
+    "longitude": 164.863,
+    "time_zone": "Australia/Brisbane",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.863, 79.918]
+    }
+  },
+  {
+    "street": "871 Kuphal Mountain",
+    "city": "New Wallaceberg",
+    "zip_code": "14140-3044",
+    "county": "Derbyshire",
+    "country": "Colombia",
+    "latitude": -48.363,
+    "longitude": 164.748,
+    "time_zone": "America/Monterrey",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.748, -48.363]
+    }
+  },
+  {
+    "street": "1290 Shakira Crossroad",
+    "city": "Opalbury",
+    "zip_code": "83135-9944",
+    "county": "Worcestershire",
+    "country": "Cocos (Keeling) Islands",
+    "latitude": 74.055,
+    "longitude": 164.618,
+    "time_zone": "America/Tijuana",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.618, 74.055]
+    }
+  },
+  {
+    "street": "178 Dorian Gateway",
+    "city": "Rogers",
+    "zip_code": "14869-9174",
+    "county": "Nottinghamshire",
+    "country": "New Caledonia",
+    "latitude": 58.102,
+    "longitude": 164.403,
+    "time_zone": "Africa/Nairobi",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.403, 58.102]
+    }
+  },
+  {
+    "street": "456 Corwin Mission",
+    "city": "Kissimmee",
+    "zip_code": "36409-6887",
+    "county": "North Yorkshire",
+    "country": "Monaco",
+    "latitude": 64.035,
+    "longitude": 164.33,
+    "time_zone": "Australia/Melbourne",
+    "location": {
+      "type": "Point",
+      "coordinates": [164.33, 64.035]
+    }
+  }
+]

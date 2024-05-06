@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "format": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose --coverage"
   },
   "author": "Prasanna Elangovan",
   "license": "ISC",
@@ -24,7 +24,10 @@
     "winston": "^3.13.0"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^9.2.0",
     "nodemon": "^3.1.0",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "supertest": "^7.0.0"
   }
 }

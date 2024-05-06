@@ -11,8 +11,10 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const connectDB = require("./config/db");
-connectDB();
+if (process.env.NODE_ENV !== "test") {
+  const connectDB = require("./config/db");
+  connectDB();
+}
 
 app.use("/api", require("./routes/default.routes"));
 app.use("/api/users", require("./routes/user.routes"));
@@ -20,4 +22,8 @@ app.use("/api/locations", require("./routes/location.routes"));
 
 app.use(errorHandler);
 
-app.listen(port, () => logger.info(`Server running on port ${port}`));
+if (process.env.NODE_ENV !== "test") {
+  app.listen(port, () => logger.info(`Server running on port ${port}`));
+}
+
+module.exports = { app };

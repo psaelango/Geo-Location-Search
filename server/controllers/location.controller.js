@@ -62,16 +62,9 @@ const getPaginatedLocations = asyncHandler(async (req, res) => {
 // @route   GET /api/locations/search
 // @access  Private
 const searchLocations = asyncHandler(async (req, res) => {
-  // Check for user
-  if (!req.user) {
-    res.status(401);
-    throw new Error("User not found");
-  }
-
   try {
     const { q, latitude, longitude } = req.query;
     const searchRegex = new RegExp(q, "i");
-    console.log("searchRegex = ", searchRegex);
 
     let query = {};
     if (q.trim() === "") {
@@ -97,9 +90,8 @@ const searchLocations = asyncHandler(async (req, res) => {
         ],
       };
     }
-    console.log("query = ", JSON.stringify(query));
+
     const locations = await Location.find(query);
-    console.log("locations = ", locations.length);
 
     const searchResults = locations.map((location) => {
       const distance = calculateDistance(
