@@ -1,7 +1,7 @@
 import React from "react";
 import Table from "react-bootstrap/Table";
 
-const TableDisplay = ({ data = [], fields, highlight = {} }) => {
+const TableDisplay = ({ data = [], fields = [], highlight = {} }) => {
   // console.log('highlight = ', highlight);
   // const filteredData = Object.keys(highlight).length > 1 ? data.filter(x => JSON.stringify(x) === JSON.stringify(highlight)) : data
   return (
@@ -15,8 +15,8 @@ const TableDisplay = ({ data = [], fields, highlight = {} }) => {
         <thead>
           <tr>
             <th>#</th>
-            {fields.map((field) => (
-              <th>{field.heading}</th>
+            {fields.map((field, index) => (
+              <th key={index}>{field.heading}</th>
             ))}
           </tr>
         </thead>
@@ -24,10 +24,12 @@ const TableDisplay = ({ data = [], fields, highlight = {} }) => {
           {data.map((value, index) => {
             const active = JSON.stringify(value) === JSON.stringify(highlight);
             return (
-              <tr className={active ? "active-row" : ""}>
+              <tr key={index} className={active ? "active-row" : ""}>
                 <td>{index + 1}</td>
-                {fields.map((field) => (
-                  <th className="">{value[field.key]}</th>
+                {fields.map((field, index) => (
+                  <th key={index} className="">
+                    {value[field.key]}
+                  </th>
                 ))}
               </tr>
             );
